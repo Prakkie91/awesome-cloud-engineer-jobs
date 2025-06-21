@@ -32,9 +32,7 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/chwihdihlaepndnkqagr.webp" width="24" height="24" alt="Angi logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Angi](https://jobo.world/company/Angi)
 
-* **[Engineering Manager, Developer Experience](https://job-boards.greenhouse.io/angi/jobs/8039204002)** — _n/a_ _(posted 2025-06-18)_
 * **[Engineering Manager, Developer Experience](https://job-boards.greenhouse.io/angi/jobs/8022912002)** — _n/a_ _(posted 2025-06-18)_
-* **[Senior Infrastructure Engineer, Enterprise IT](https://job-boards.greenhouse.io/angi/jobs/8039146002)** — _n/a_ _(posted 2025-06-18)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ccrorvk5avxtpdxi77lc.webp" width="24" height="24" alt="Apollo.io logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Apollo.io](https://jobo.world/company/Apollo-io)
 
@@ -139,6 +137,10 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 
 * **[Forward Deployed Engineer - Architect](https://job-boards.greenhouse.io/devrev/jobs/5554325004)** — _n/a_ _(posted 2025-05-31)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/k92vxngybvwdc18je6xi.webp" width="24" height="24" alt="Dev Technology Group logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dev Technology Group](https://jobo.world/company/DevTechGrp)
+
+* **[Full Stack Developer (Java/GoLang)](https://job-boards.greenhouse.io/devtechnology/jobs/7983506002)** — _n/a_ _(posted 2025-05-07)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rtyne9b2pdyqncaygzud.webp" width="24" height="24" alt="Earnest logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Earnest](https://jobo.world/company/Earnest)
 
 * **[Security Architect](https://boards.greenhouse.io/earnest/jobs/6573485)** — _n/a_ _(posted 2025-03-14)_
@@ -242,6 +244,10 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 
 * **[Forward Deploy Engineer](https://jobs.ashbyhq.com/rogo/180e1eb4-c1a9-4b36-a48e-c057221a2d6c)** — _n/a_ _(posted 2025-03-14)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/v0km7tywfzu4vdowmdeu.webp" width="24" height="24" alt="Runwise logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Runwise](https://jobo.world/company/Runwise)
+
+* **[Senior Backend Engineer](https://job-boards.greenhouse.io/runwise/jobs/4575548006)** — _n/a_ _(posted 2025-06-12)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/u3ko06mvu5nvizavxsix.webp" width="24" height="24" alt="RxSense logo" style="vertical-align:middle"/>&nbsp;&nbsp;[RxSense](https://jobo.world/company/RxSense)
 
 * **[Database Architect](https://job-boards.greenhouse.io/rxsense/jobs/4567858005)** — _n/a_ _(posted 2025-05-22)_
@@ -326,4 +332,4 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 * **[Data Engineer Intern](https://job-boards.greenhouse.io/wurljobs/jobs/4570158006)** — _n/a_ _(posted 2025-05-23)_
 
 ---
-_Updated automatically — 2025-06-20_
+_Updated automatically — 2025-06-21_
