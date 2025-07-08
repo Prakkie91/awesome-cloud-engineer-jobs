@@ -329,4 +329,4 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 * **[Manager, Cloud Platform](https://jobs.smartrecruiters.com/Xplor/744000066894613-manager-cloud-platform?oga=true)** — _n/a_ _(posted 2025-06-24)_
 
 ---
-_Updated automatically — 2025-07-07_
+_Updated automatically — 2025-07-08_
