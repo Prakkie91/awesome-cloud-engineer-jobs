@@ -9,7 +9,6 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fas521kp6jmfndrua622.webp" width="24" height="24" alt="3cloud logo" style="vertical-align:middle"/>&nbsp;&nbsp;[3cloud](https://jobo.world/company/3cloud)
 
 * **[Senior Enterprise Architect – Healthcare](https://job-boards.greenhouse.io/3cloud/jobs/8056751002)** — _n/a_ _(posted 2025-07-01)_
-* **[Architect - AI](https://job-boards.greenhouse.io/3cloud/jobs/8048289002)** — _n/a_ _(posted 2025-06-25)_
 * **[Director AI](https://job-boards.greenhouse.io/3cloud/jobs/8033899002)** — _n/a_ _(posted 2025-06-13)_
 * **[Architect - Cloud Platform](https://job-boards.greenhouse.io/3cloud/jobs/7985803002)** — _n/a_ _(posted 2025-06-10)_
 * **[Senior Architect - Client Service](https://boards.greenhouse.io/3cloud/jobs/7968195002)** — _n/a_ _(posted 2025-04-23)_
@@ -22,10 +21,6 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 
 * **[Cloud Engineering Architect](https://jobs.lever.co/accurate/eaa82f9d-a293-47ae-90c4-baae47164509)** — _n/a_ _(posted 2025-06-10)_
 * **[Database Engineering Architect](https://jobs.lever.co/accurate/3d638303-3b17-4d59-8a8c-f06496c3425d)** — _n/a_ _(posted 2025-06-10)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/eqtxryrzzr3osa9lrxfb.webp" width="24" height="24" alt="Acronis logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Acronis](https://jobo.world/company/Acronis)
-
-* **[Cloud Platform Engineer](https://acronis.wd3.myworkdayjobs.com/acronis_careers/job/USA---Remote/Cloud-Platform-Engineer_R-100330)** — _n/a_ _(posted 2025-07-08)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/onmz3yffvx4vbmprmkam.webp" width="24" height="24" alt="Aerospike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Aerospike](https://jobo.world/company/Aerospike)
 
@@ -186,6 +181,7 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uxzsxi5shmjsoxmamfjh.webp" width="24" height="24" alt="Human Interest logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Human Interest](https://jobo.world/company/Human-Interest)
 
 * **[Senior Software Engineer](https://job-boards.greenhouse.io/humaninterest/jobs/6932241)** — _n/a_ _(posted 2025-06-05)_
+* **[Senior Security Engineer](https://job-boards.greenhouse.io/humaninterest/jobs/6822325)** — _n/a_ _(posted 2025-05-09)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zcr2yjsivoviphozj9y6.webp" width="24" height="24" alt="Humana logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Humana](https://jobo.world/company/Humana)
 
@@ -320,6 +316,7 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/r40ajrc2uetxb7obycan.webp" width="24" height="24" alt="TetraScience logo" style="vertical-align:middle"/>&nbsp;&nbsp;[TetraScience](https://jobo.world/company/TetraScience)
 
+* **[DevOps Engineer- Boston](https://apply.workable.com/tetrascience/j/6AFF1294D4/)** — _n/a_ _(posted 2025-07-10)_
 * **[Senior AI Infrastructure Engineer](https://apply.workable.com/tetrascience/j/444086D7AE/)** — _n/a_ _(posted 2025-07-07)_
 * **[Chief Architect](https://apply.workable.com/tetrascience/j/790DBA3B11/)** — _n/a_ _(posted 2025-06-24)_
 
@@ -332,4 +329,4 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 * **[Chief Architect](https://jobs.lever.co/workwave/d15d99c8-ba66-485e-b026-996cb5a310ad)** — _n/a_ _(posted 2025-06-06)_
 
 ---
-_Updated automatically — 2025-07-11_
+_Updated automatically — 2025-07-12_
