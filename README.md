@@ -8,6 +8,7 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fas521kp6jmfndrua622.webp" width="24" height="24" alt="3cloud logo" style="vertical-align:middle"/>&nbsp;&nbsp;[3cloud](https://jobo.world/company/3cloud)
 
+* **[Architect - AI](https://job-boards.greenhouse.io/3cloud/jobs/8071669002)** — _n/a_ _(posted 2025-07-12)_
 * **[Senior Enterprise Architect – Healthcare](https://job-boards.greenhouse.io/3cloud/jobs/8056751002)** — _n/a_ _(posted 2025-07-01)_
 * **[Director AI](https://job-boards.greenhouse.io/3cloud/jobs/8033899002)** — _n/a_ _(posted 2025-06-13)_
 * **[Architect - Cloud Platform](https://job-boards.greenhouse.io/3cloud/jobs/7985803002)** — _n/a_ _(posted 2025-06-10)_
@@ -20,11 +21,6 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xmfqb0jqv6sfguqgzjgy.webp" width="24" height="24" alt="Accurate Background logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Accurate Background](https://jobo.world/company/AccurateBG)
 
 * **[Cloud Engineering Architect](https://jobs.lever.co/accurate/eaa82f9d-a293-47ae-90c4-baae47164509)** — _n/a_ _(posted 2025-06-10)_
-* **[Database Engineering Architect](https://jobs.lever.co/accurate/3d638303-3b17-4d59-8a8c-f06496c3425d)** — _n/a_ _(posted 2025-06-10)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/onmz3yffvx4vbmprmkam.webp" width="24" height="24" alt="Aerospike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Aerospike](https://jobo.world/company/Aerospike)
-
-* **[Security Engineer, DevSecOps](https://job-boards.greenhouse.io/aerospike/jobs/8018939002)** — _n/a_ _(posted 2025-05-31)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ytq0iq1fcp579zoqmu0w.webp" width="24" height="24" alt="Aledade logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Aledade](https://jobo.world/company/Aledade)
 
@@ -69,6 +65,7 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/anthlwqnh3ckdkwq7uvi.webp" width="24" height="24" alt="BigCommerce logo" style="vertical-align:middle"/>&nbsp;&nbsp;[BigCommerce](https://jobo.world/company/BigCommerce)
 
+* **[Infrastructure Engineer II (DAT) - Remote](https://bigcommerce.wd12.myworkdayjobs.com/bigcommerce/job/United-States---Remote/Infrastructure-Engineer-II_JR102166)** — _n/a_ _(posted 2025-07-11)_
 * **[Lead Infrastructure Engineer - Remote](https://bigcommerce.wd12.myworkdayjobs.com/bigcommerce/job/United-States---Remote/Lead-Infrastructure-Engineer---Remote_JR101923)** — _n/a_ _(posted 2025-04-03)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ex51fd3wt4w9cnurc1wy.webp" width="24" height="24" alt="Biorender logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Biorender](https://jobo.world/company/Biorender)
@@ -100,17 +97,12 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 
 * **[Cloud - Azure Infra Engineer](https://cdk.wd1.myworkdayjobs.com/cdk/job/Remote-USA/Cloud---Azure-Infra-Engineer_JR7798)** — _n/a_ _(posted 2025-05-12)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vrerphrfzimfknvp5loj.webp" width="24" height="24" alt="Certik logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Certik](https://jobo.world/company/Certik)
-
-* **[Senior Full-Stack Engineer](https://jobs.lever.co/certik/b85b78b6-a186-497b-a3d0-13c1b696a522)** — _n/a_ _(posted 2025-02-10)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yrhltbcatnpx6bjoymt2.webp" width="24" height="24" alt="Clairo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Clairo](https://jobo.world/company/Clairo)
 
 * **[Principal Software Engineer I](https://clarioclinical.wd1.myworkdayjobs.com/clarioclinical_careers/job/North-Carolina-Remote/Principal-Software-Engineer-I_R16034)** — _n/a_ _(posted 2025-06-16)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zcrsxaub94nntp5gtnjk.webp" width="24" height="24" alt="Clickhouse logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Clickhouse](https://jobo.world/company/Clickhouse)
 
-* **[Full Stack Software Engineer - Control Plane](https://job-boards.greenhouse.io/clickhouse/jobs/5584386004)** — _n/a_ _(posted 2025-07-09)_
 * **[Senior Cloud Engineer - Secure Deployments](https://job-boards.greenhouse.io/clickhouse/jobs/5466962004)** — _n/a_ _(posted 2025-06-21)_
 * **[Cloud Software Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/5540997004)** — _n/a_ _(posted 2025-06-06)_
 * **[Cloud Infrastructure Software Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/5498943004)** — _n/a_ _(posted 2025-05-20)_
@@ -120,13 +112,19 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 
 * **[Senior Cloud Engineer (Contract)](https://job-boards.greenhouse.io/clicktherapeutics/jobs/7957559002)** — _n/a_ _(posted 2025-04-15)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/p51wpz1xuhr53cmc6hnh.webp" width="24" height="24" alt="Confluent logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Confluent](https://jobo.world/company/Confluent)
+
+* **[Principal Engineer - Compute Platform](https://jobs.ashbyhq.com/confluent/043314de-8a0d-444b-8389-75e4eef4fde6)** — ¤310,500 – ¤372,600 USD _(posted 2025-07-12)_
+* **[Director II, Engineering - Head of Confluent Control Plane](https://jobs.ashbyhq.com/confluent/fbe063e0-42b2-40c7-a8ff-b9ba2f87dedf)** — ¤321,800 – ¤386,100 USD _(posted 2025-07-12)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hzuavimik16xkwurk8st.webp" width="24" height="24" alt="Cribl logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cribl](https://jobo.world/company/Cribl)
 
 * **[Manager, Software Engineering, Cribl Lake](https://job-boards.greenhouse.io/cribl/jobs/5560176004)** — _n/a_ _(posted 2025-06-07)_
-* **[Staff Professional Services Consultant](https://job-boards.greenhouse.io/cribl/jobs/5556224004)** — _n/a_ _(posted 2025-06-05)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
+* **[Sr. II Cloud Engineer, Exposure Management (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-II-Cloud-Engineer--Exposure-Management--Remote-_R23792)** — _n/a_ _(posted 2025-07-11)_
+* **[Sr. Consultant - Cloud Security (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TX/Sr-Consultant---Cloud-Security--Remote-_R23845)** — _n/a_ _(posted 2025-07-11)_
 * **[Cloud Software Engineer III - Exposure Management (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Cloud-Software-Engineer-III---Exposure-Management--Remote-_R23767-1)** — _n/a_ _(posted 2025-07-02)_
 * **[Engineer III, Cloud - Graph Systems (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-III--Cloud---Graph-Systems--Remote-_R23674)** — _n/a_ _(posted 2025-06-26)_
 * **[Engineering Manager, Data Services (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineering-Manager--Data-Services--Remote-_R23519)** — _n/a_ _(posted 2025-06-17)_
@@ -162,13 +160,13 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 
 * **[Senior Security Engineer](https://job-boards.greenhouse.io/energyhub/jobs/7990170002)** — _n/a_ _(posted 2025-05-22)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kwqvzeivla8e5znv7cvw.webp" width="24" height="24" alt="Built Technologies logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Built Technologies](https://jobo.world/company/getbuilt)
-
-* **[Senior Data Engineer](https://job-boards.greenhouse.io/getbuilt/jobs/4534538005)** — _n/a_ _(posted 2025-04-15)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/eeoffimwrazcwuzdmeak.webp" width="24" height="24" alt="Glia logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Glia](https://jobo.world/company/Glia)
 
 * **[Solutions Architect](https://job-boards.greenhouse.io/glia/jobs/5477895004)** — _n/a_ _(posted 2025-04-15)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tgzryldkxag6dhkpbwqq.webp" width="24" height="24" alt="Handshake logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Handshake](https://jobo.world/company/Handshake)
+
+* **[Senior Cloud Engineer, Search and Data Pipelines](https://jobs.ashbyhq.com/handshake/7070bae8-34aa-4806-945f-412ee8a9c1f0)** — ¤180,000 – ¤220,000 USD _(posted 2025-07-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ndsgzy63mycn4gatbqgq.webp" width="24" height="24" alt="Headspace logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Headspace](https://jobo.world/company/Headspace)
 
@@ -181,7 +179,6 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uxzsxi5shmjsoxmamfjh.webp" width="24" height="24" alt="Human Interest logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Human Interest](https://jobo.world/company/Human-Interest)
 
 * **[Senior Software Engineer](https://job-boards.greenhouse.io/humaninterest/jobs/6932241)** — _n/a_ _(posted 2025-06-05)_
-* **[Senior Security Engineer](https://job-boards.greenhouse.io/humaninterest/jobs/6822325)** — _n/a_ _(posted 2025-05-09)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zcr2yjsivoviphozj9y6.webp" width="24" height="24" alt="Humana logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Humana](https://jobo.world/company/Humana)
 
@@ -191,6 +188,10 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 
 * **[IAM Architect - Microsoft](https://jobs.lever.co/idmworks/00bdf3ca-46da-477d-a546-f1aac1b0d494)** — _n/a_ _(posted 2025-04-15)_
 * **[Microsoft Engineer - Senior](https://jobs.lever.co/idmworks/2744deee-064d-4f4e-aa72-7e816d8ab5f9)** — _n/a_ _(posted 2025-04-15)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu1fnjgrjwoa651dm7l9.webp" width="24" height="24" alt="Jerry logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jerry](https://jobo.world/company/Jerry)
+
+* **[Senior Backend Engineer](https://jobs.ashbyhq.com/jerry/400664d7-7e38-4bb9-bd67-6f37fa5a3efb)** — _n/a_ _(posted 2025-07-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tljg9uclhyrfwgpqslwa.webp" width="24" height="24" alt="JumpCloud logo" style="vertical-align:middle"/>&nbsp;&nbsp;[JumpCloud](https://jobo.world/company/JumpCloud)
 
@@ -218,7 +219,6 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/txhnjc4c5hu3msapwpp7.webp" width="24" height="24" alt="NVIDIA logo" style="vertical-align:middle"/>&nbsp;&nbsp;[NVIDIA](https://jobo.world/company/NVIDIA)
 
-* **[Distinguished Engineer, Cloud Architecture](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Remote/Distinguished-Engineer--Cloud-Architecture_JR1998516)** — _n/a_ _(posted 2025-06-16)_
 * **[Senior Security Software Engineer - Cloud](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-MD-Remote/Senior-Security-Software-Engineer---Cloud_JR1997655)** — _n/a_ _(posted 2025-05-22)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mtjdghbxvseizkan336m.webp" width="24" height="24" alt="OpenAI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[OpenAI](https://jobo.world/company/OpenAI)
@@ -272,10 +272,6 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 
 * **[Forward Deploy Engineer](https://jobs.ashbyhq.com/rogo/180e1eb4-c1a9-4b36-a48e-c057221a2d6c)** — _n/a_ _(posted 2025-03-14)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/u3ko06mvu5nvizavxsix.webp" width="24" height="24" alt="RxSense logo" style="vertical-align:middle"/>&nbsp;&nbsp;[RxSense](https://jobo.world/company/RxSense)
-
-* **[AWS Dev Ops Engineer](https://job-boards.greenhouse.io/rxsense/jobs/4583460005)** — _n/a_ _(posted 2025-07-08)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/g2xzgj0faw190v6ckrip.webp" width="24" height="24" alt="Sagent logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Sagent](https://jobo.world/company/Sagent)
 
 * **[Data Architect Principal](https://job-boards.greenhouse.io/sagent/jobs/5526105004)** — _n/a_ _(posted 2025-04-25)_
@@ -320,13 +316,14 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 * **[Senior AI Infrastructure Engineer](https://apply.workable.com/tetrascience/j/444086D7AE/)** — _n/a_ _(posted 2025-07-07)_
 * **[Chief Architect](https://apply.workable.com/tetrascience/j/790DBA3B11/)** — _n/a_ _(posted 2025-06-24)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dmvqzs6uhmcatjim8iyc.webp" width="24" height="24" alt="True Zero Technologies logo" style="vertical-align:middle"/>&nbsp;&nbsp;[True Zero Technologies](https://jobo.world/company/TrueZeroTech)
+
+* **[Azure Cloud Architect (R-00078)](https://jobs.lever.co/truezerotech/19b1b46d-c045-4aaf-bf7a-4b7e95dea5bc)** — _n/a_ _(posted 2025-07-11)_
+* **[Senior Cloud Security Architect (R-00079)](https://jobs.lever.co/truezerotech/ed5e2661-9610-4669-98ff-fdc68436a4a1)** — _n/a_ _(posted 2025-07-11)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hl8fe8wx2l2bblxnnty9.webp" width="24" height="24" alt="Twingate logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Twingate](https://jobo.world/company/Twingate)
 
 * **[Senior DevOps Engineer](https://jobs.lever.co/twingate/99575192-65df-4ae7-8b97-dcf62b93fd62)** — ¤170,000 – ¤200,000 USD _(posted 2025-03-04)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/d7dueixfzg0r80wfv2va.webp" width="24" height="24" alt="Workwave logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Workwave](https://jobo.world/company/Workwave)
-
-* **[Chief Architect](https://jobs.lever.co/workwave/d15d99c8-ba66-485e-b026-996cb5a310ad)** — _n/a_ _(posted 2025-06-06)_
-
 ---
-_Updated automatically — 2025-07-12_
+_Updated automatically — 2025-07-13_
