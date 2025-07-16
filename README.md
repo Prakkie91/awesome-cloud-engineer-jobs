@@ -29,6 +29,10 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 
 * **[Backend Software Engineer](https://job-boards.greenhouse.io/affinipay1/jobs/4439690006)** — _n/a_ _(posted 2025-04-15)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cxlfyveyajkzknd4zxyc.webp" width="24" height="24" alt="Align logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Align](https://jobo.world/company/Align)
+
+* **[Sr. Cloud Operations Engineer](https://job-boards.greenhouse.io/align46/jobs/4749263007)** — _n/a_ _(posted 2025-06-03)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/p52hiqeoimb147fba2ym.webp" width="24" height="24" alt="Ambient.ai logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ambient.ai](https://jobo.world/company/Ambient-AI)
 
 * **[Senior Sales Engineer](https://jobs.ashbyhq.com/ambient.ai/f6e159df-9a4d-43db-8049-757452eeb5e0)** — ¤120,000 – ¤150,000 USD _(posted 2025-05-31)_
@@ -52,6 +56,7 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/artpcuu1rb7wo1ernbhe.webp" width="24" height="24" alt="Barbaricum logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Barbaricum](https://jobo.world/company/Barbaricum)
 
+* **[Artificial Intelligence Machine Learning (AI/ML) Tech Lead](https://boards.greenhouse.io/barbaricum/jobs/4552215008)** — _n/a_ _(posted 2025-03-14)_
 * **[Artificial Intelligence Machine Learning (AI/ML) Cloud Engineer](https://boards.greenhouse.io/barbaricum/jobs/4552293008)** — _n/a_ _(posted 2025-03-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/anthlwqnh3ckdkwq7uvi.webp" width="24" height="24" alt="BigCommerce logo" style="vertical-align:middle"/>&nbsp;&nbsp;[BigCommerce](https://jobo.world/company/BigCommerce)
@@ -132,6 +137,7 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gjruly2mmfhjz3muesax.webp" width="24" height="24" alt="Foodsmart logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Foodsmart](https://jobo.world/company/Foodsmart)
 
 * **[Data Engineer](https://jobs.lever.co/foodsmart/3864c246-5eda-45e9-92e9-f6d804fa96b0)** — _n/a_ _(posted 2025-05-12)_
+* **[Senior Software Engineer - Fullstack](https://jobs.lever.co/foodsmart/83abdeb2-fbb3-499c-9948-052f3755856b)** — _n/a_ _(posted 2025-05-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jy37ytidfhwof6jnycfb.webp" width="24" height="24" alt="Fullscript logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fullscript](https://jobo.world/company/FullScript)
 
@@ -180,7 +186,6 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zqwdqarecv3wrvefdxy0.webp" width="24" height="24" alt="Life360 logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Life360](https://jobo.world/company/Life360)
 
 * **[Senior Data Engineer II](https://job-boards.greenhouse.io/life360/jobs/8028954002)** — _n/a_ _(posted 2025-06-07)_
-* **[Staff Data Architect](https://job-boards.greenhouse.io/life360/jobs/7990134002)** — ¤166,500 – ¤245,000 USD _(posted 2025-05-09)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yxlnu2oiwrtwttay1hqs.webp" width="24" height="24" alt="Mixpanel logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mixpanel](https://jobo.world/company/Mixpanel)
 
@@ -194,10 +199,6 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 
 * **[Lead Cloud Security Engineer](https://job-boards.greenhouse.io/modernizingmedicineinc/jobs/8038925002)** — _n/a_ _(posted 2025-06-18)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ociivhbjiixlqycus4da.webp" width="24" height="24" alt="NeuraFlash logo" style="vertical-align:middle"/>&nbsp;&nbsp;[NeuraFlash](https://jobo.world/company/NeuraFlash)
-
-* **[Sr. AWS Developer](https://job-boards.greenhouse.io/neuraflash/jobs/5551563004)** — _n/a_ _(posted 2025-07-10)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/txhnjc4c5hu3msapwpp7.webp" width="24" height="24" alt="NVIDIA logo" style="vertical-align:middle"/>&nbsp;&nbsp;[NVIDIA](https://jobo.world/company/NVIDIA)
 
 * **[Senior Security Software Engineer - Cloud](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-MD-Remote/Senior-Security-Software-Engineer---Cloud_JR1997655)** — _n/a_ _(posted 2025-05-22)_
@@ -207,6 +208,10 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 * **[Enterprise Security Engineer](https://jobs.ashbyhq.com/openai/47048627-427e-4566-b349-847e52a5def1)** — ¤260,000 – ¤325,000 USD _(posted 2025-05-13)_
 * **[Security Engineer, Data Center Security](https://jobs.ashbyhq.com/openai/4efa5099-9fc6-459b-8ace-c47fb8677f90)** — ¤346,500 – ¤465,000 USD _(posted 2025-03-12)_
 * **[Security Engineer, Cloud Security](https://jobs.ashbyhq.com/openai/1705c3b2-7f3a-42bf-99a9-c23ba161a90d)** — ¤279,000 – ¤385,000 USD _(posted 2025-03-12)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zvn1ylulhsyyowqu95ym.webp" width="24" height="24" alt="PatientPoint logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PatientPoint](https://jobo.world/company/PatientPoint)
+
+* **[Join Our Talent Community](https://job-boards.greenhouse.io/patientpoint/jobs/4243761005)** — _n/a_ _(posted 2025-03-30)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yqemedkdlgawstcxy3aq.webp" width="24" height="24" alt="PayNearMe logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PayNearMe](https://jobo.world/company/PayNearMe)
 
@@ -281,10 +286,6 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 
 * **[DevOps Engineer](https://jobs.ashbyhq.com/sgnlai/47e2b427-1cff-4c66-b419-06aaedd2a875)** — _n/a_ _(posted 2025-03-12)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ikyhgmloca3luk71epu4.webp" width="24" height="24" alt="SmartAsset logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SmartAsset](https://jobo.world/company/SmartAsset)
-
-* **[Senior Software Engineer](https://boards.greenhouse.io/smartasset/jobs/7938185002)** — _n/a_ _(posted 2025-04-24)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/omuszbxxi40zo5a3n10x.webp" width="24" height="24" alt="Snowflake logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Snowflake](https://jobo.world/company/Snowflake)
 
 * **[Solutions Architect, Migrations](https://jobs.ashbyhq.com/snowflake/e61dbae8-cb01-46f6-b815-96f8967ad85e)** — ¤128,000 – ¤178,500 USD _(posted 2025-05-13)_
@@ -312,10 +313,6 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/r40ajrc2uetxb7obycan.webp" width="24" height="24" alt="TetraScience logo" style="vertical-align:middle"/>&nbsp;&nbsp;[TetraScience](https://jobo.world/company/TetraScience)
 
 * **[DevOps Engineer- Boston](https://apply.workable.com/tetrascience/j/6AFF1294D4/)** — _n/a_ _(posted 2025-07-10)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nmpjang8hd7j1tvecltw.webp" width="24" height="24" alt="The Zebra logo" style="vertical-align:middle"/>&nbsp;&nbsp;[The Zebra](https://jobo.world/company/The-Zebra)
-
-* **[Software Engineer II - Fullstack (Remote, United States)](https://jobs.ashbyhq.com%2Fthe%2520zebra%2F9912e93c-93cf-4df4-8a5b-bb634eb54361)** — _n/a_ _(posted 2025-05-17)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/iopzw9gillqokxstabap.webp" width="24" height="24" alt="Tonal logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Tonal](https://jobo.world/company/Tonal)
 
@@ -356,4 +353,4 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 * **[DevOps Engineer](https://apply.workable.com/verinext/j/C0423284EA/)** — _n/a_ _(posted 2025-07-09)_
 
 ---
-_Updated automatically — 2025-07-15_
+_Updated automatically — 2025-07-16_
