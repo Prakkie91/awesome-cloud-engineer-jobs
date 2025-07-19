@@ -42,6 +42,10 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 
 * **[Staff Data Engineer (Remote, United States)](https://boards.greenhouse.io/apolloio/jobs/5476022004)** — _n/a_ _(posted 2025-03-28)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qbjqngphisdkg1vj3ilm.webp" width="24" height="24" alt="Appspace logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Appspace](https://jobo.world/company/Appspace)
+
+* **[Cloud Security Engineer](https://job-boards.greenhouse.io/appspace/jobs/5589269004)** — _n/a_ _(posted 2025-07-18)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu9fyf0r2tvc7iwdcmdy.webp" width="24" height="24" alt="Arcadia logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Arcadia](https://jobo.world/company/Arcadia-io)
 
 * **[AWS Finops Analyst](https://jobs.lever.co/arcadia/93d31e16-ec3c-407c-8ad4-50301a54f836)** — _n/a_ _(posted 2025-05-02)_
@@ -122,10 +126,6 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 * **[Senior Infrastructure Engineer - GCP](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4579636005)** — _n/a_ _(posted 2025-06-26)_
 * **[Senior Cloud Network Engineer II](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4579380005)** — _n/a_ _(posted 2025-06-25)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/d5rusk3oeplprdzwaplj.webp" width="24" height="24" alt="Degreed logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Degreed](https://jobo.world/company/Degreed)
-
-* **[Senior DevOps Manager - US](https://job-boards.greenhouse.io/degreed/jobs/5469548004)** — _n/a_ _(posted 2025-04-16)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fitj6r32co0te54kphau.webp" width="24" height="24" alt="EnergyHub logo" style="vertical-align:middle"/>&nbsp;&nbsp;[EnergyHub](https://jobo.world/company/EnergyHub)
 
 * **[Senior Security Engineer](https://job-boards.greenhouse.io/energyhub/jobs/7990170002)** — _n/a_ _(posted 2025-05-22)_
@@ -133,6 +133,10 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gtjtouxxcis6gyjwklzz.webp" width="24" height="24" alt="Field Nation logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Field Nation](https://jobo.world/company/Field-Nation)
 
 * **[Cloud Security Engineer](https://jobs.lever.co/fieldnation/3058da36-8611-4016-9277-1b68b1a051be)** — _n/a_ _(posted 2025-07-14)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gjruly2mmfhjz3muesax.webp" width="24" height="24" alt="Foodsmart logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Foodsmart](https://jobo.world/company/Foodsmart)
+
+* **[Senior Software Engineer - Fullstack](https://jobs.lever.co/foodsmart/83abdeb2-fbb3-499c-9948-052f3755856b)** — _n/a_ _(posted 2025-05-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jy37ytidfhwof6jnycfb.webp" width="24" height="24" alt="Fullscript logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fullscript](https://jobo.world/company/FullScript)
 
@@ -150,18 +154,11 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 
 * **[Senior Cloud Solutions Engineer](https://job-boards.greenhouse.io/hs/jobs/7014626)** — _n/a_ _(posted 2025-06-28)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xqvnkxt9iurez0ipw8ch.webp" width="24" height="24" alt="HireVue logo" style="vertical-align:middle"/>&nbsp;&nbsp;[HireVue](https://jobo.world/company/HireVue)
-
-* **[Cloud Engineer | Fully Remote USA](https://jobs.smartrecruiters.com/HireVue/744000067284251-cloud-engineer-fully-remote-usa?oga=true)** — _n/a_ _(posted 2025-06-26)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zcr2yjsivoviphozj9y6.webp" width="24" height="24" alt="Humana logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Humana](https://jobo.world/company/Humana)
 
+* **[Lead Cloud Architect GCP](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Lead-Cloud-Architect-GCP_R-382568)** — _n/a_ _(posted 2025-07-17)_
 * **[Lead Cloud Solutions Engineer AWS and Kubernetes](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Lead-Cloud-Solutions-Engineer-AWS-and-Kubernetes_R-381134)** — _n/a_ _(posted 2025-07-15)_
 * **[Senior Cloud Architect, Kubernetes Engineering](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Senior-Cloud-Architect--Kubernetes-Engineering_R-379944)** — _n/a_ _(posted 2025-07-08)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/e0p2lkgyrsetxsdrpcp0.webp" width="24" height="24" alt="Interwell Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Interwell Health](https://jobo.world/company/Interwell-Health)
-
-* **[Data Engineer](https://job-boards.greenhouse.io/interwellhealth/jobs/4749959008)** — _n/a_ _(posted 2025-06-07)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tljg9uclhyrfwgpqslwa.webp" width="24" height="24" alt="JumpCloud logo" style="vertical-align:middle"/>&nbsp;&nbsp;[JumpCloud](https://jobo.world/company/JumpCloud)
 
@@ -178,10 +175,6 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bropegpbvpqs2ju3a360.webp" width="24" height="24" alt="Knock logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Knock](https://jobo.world/company/Knock)
 
 * **[Platform Engineer](https://jobs.ashbyhq.com/knock/beee9279-e40a-4944-ab20-dd473998b429)** — _n/a_ _(posted 2025-06-04)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bpe4hx0jvt3uwt0p7lxf.webp" width="24" height="24" alt="Kunai logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kunai](https://jobo.world/company/Kunai)
-
-* **[Software Engineer - Python](https://job-boards.greenhouse.io/kunai/jobs/4788583007)** — _n/a_ _(posted 2025-07-17)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zqwdqarecv3wrvefdxy0.webp" width="24" height="24" alt="Life360 logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Life360](https://jobo.world/company/Life360)
 
@@ -216,6 +209,10 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yqemedkdlgawstcxy3aq.webp" width="24" height="24" alt="PayNearMe logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PayNearMe](https://jobo.world/company/PayNearMe)
 
 * **[Site Reliability Engineer - Remote ](https://jobs.smartrecruiters.com/PayNearMe/744000062969188-site-reliability-engineer-remote-?oga=true)** — _n/a_ _(posted 2025-06-03)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ius1mxcu5iwevowrje3y.webp" width="24" height="24" alt="Paytient logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Paytient](https://jobo.world/company/Paytient)
+
+* **[Senior Cloud Security Engineer](https://job-boards.greenhouse.io/paytient/jobs/4791308007)** — _n/a_ _(posted 2025-07-18)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/efxwy6jn0yovonvkqiog.webp" width="24" height="24" alt="Planet Technologies logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Planet Technologies](https://jobo.world/company/Planet-Technologies)
 
@@ -353,4 +350,4 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 * **[DevOps Engineer](https://apply.workable.com/verinext/j/C0423284EA/)** — _n/a_ _(posted 2025-07-09)_
 
 ---
-_Updated automatically — 2025-07-18_
+_Updated automatically — 2025-07-19_
