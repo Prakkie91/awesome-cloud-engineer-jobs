@@ -148,9 +148,9 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zcr2yjsivoviphozj9y6.webp" width="24" height="24" alt="Humana logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Humana](https://jobo.world/company/Humana)
 
+* **[Sr Full Stack Software Engineer](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Sr-Full-Stack-Software-Engineer_R-379942)** — _n/a_ _(posted 2025-07-18)_
 * **[Lead Cloud Architect GCP](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Lead-Cloud-Architect-GCP_R-382568)** — _n/a_ _(posted 2025-07-17)_
 * **[Lead Cloud Solutions Engineer AWS and Kubernetes](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Lead-Cloud-Solutions-Engineer-AWS-and-Kubernetes_R-381134)** — _n/a_ _(posted 2025-07-15)_
-* **[Senior Cloud Architect, Kubernetes Engineering](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Senior-Cloud-Architect--Kubernetes-Engineering_R-379944)** — _n/a_ _(posted 2025-07-08)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bxtb3il1qhhrkcpc1lfa.webp" width="24" height="24" alt="Kalepa logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kalepa](https://jobo.world/company/Kalepa)
 
@@ -350,4 +350,4 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 * **[DevOps Engineer](https://apply.workable.com/verinext/j/C0423284EA/)** — _n/a_ _(posted 2025-07-09)_
 
 ---
-_Updated automatically — 2025-07-20_
+_Updated automatically — 2025-07-22_
