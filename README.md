@@ -121,6 +121,7 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 
 * **[Sr Engineer - Cloud SDET (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-VA/Sr-Engineer---Cloud-SDET--Remote-_R23879)** — _n/a_ _(posted 2025-07-11)_
 * **[Sr. Consultant - Cloud Security (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TX/Sr-Consultant---Cloud-Security--Remote-_R23845)** — _n/a_ _(posted 2025-07-11)_
+* **[Sr. Software Engineer - Cloud (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Sr-Software-Engineer---Cloud--Remote-_R23875)** — _n/a_ _(posted 2025-07-11)_
 * **[Cloud Software Engineer III - Exposure Management (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Cloud-Software-Engineer-III---Exposure-Management--Remote-_R23767-1)** — _n/a_ _(posted 2025-07-02)_
 * **[Sr. Machine Learning Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Machine-Learning-Engineer--Remote-_R23602)** — _n/a_ _(posted 2025-06-26)_
 * **[Cloud Red Teamer](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Cloud-Red-Teamer_R22570)** — _n/a_ _(posted 2025-03-19)_
@@ -137,10 +138,6 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gtjtouxxcis6gyjwklzz.webp" width="24" height="24" alt="Field Nation logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Field Nation](https://jobo.world/company/Field-Nation)
 
 * **[Cloud Security Engineer](https://jobs.lever.co/fieldnation/3058da36-8611-4016-9277-1b68b1a051be)** — _n/a_ _(posted 2025-07-14)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gjruly2mmfhjz3muesax.webp" width="24" height="24" alt="Foodsmart logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Foodsmart](https://jobo.world/company/Foodsmart)
-
-* **[Software Engineer - Backend](https://jobs.lever.co/foodsmart/f12a9eaa-55ae-4398-a383-9555c5410f71)** — _n/a_ _(posted 2025-06-13)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bsmaovurtw5whly25w0f.webp" width="24" height="24" alt="Forethought logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Forethought](https://jobo.world/company/Forethought)
 
@@ -347,4 +344,4 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 * **[Software Engineer](https://job-boards.greenhouse.io/vectara/jobs/4731119008)** — _n/a_ _(posted 2025-05-24)_
 
 ---
-_Updated automatically — 2025-07-24_
+_Updated automatically — 2025-07-25_
