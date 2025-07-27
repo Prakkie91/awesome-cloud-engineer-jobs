@@ -71,6 +71,10 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 
 * **[Senior/Lead Infrastructure Security Engineer](https://jobs.ashbyhq.com/biorender/dfcabba5-dd9b-43ce-85f9-23e9f634fc8f)** — _n/a_ _(posted 2025-04-15)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dncml0pjrfuppesov22t.webp" width="24" height="24" alt="Bitcoin Depot logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Bitcoin Depot](https://jobo.world/company/Bitcoin-Depot)
+
+* **[IT Cloud DevOps Engineer](https://job-boards.greenhouse.io/bitcoindepot/jobs/6661773003)** — _n/a_ _(posted 2025-07-26)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mdhnl2gwcg6rtvdfwtqv.webp" width="24" height="24" alt="Bonterra logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Bonterra](https://jobo.world/company/Bonterra)
 
 * **[EA-Software Engineer](https://bonterra.wd1.myworkdayjobs.com/bonterratech/job/Remote-United-States/EA-Software-Engineer_R2025-0245-1)** — _n/a_ _(posted 2025-07-24)_
@@ -110,10 +114,6 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 
 * **[Senior Backend Engineer](https://jobs.ashbyhq.com/cointracker/117da092-0201-4a36-87c2-1b1e0e0a1f9e)** — _n/a_ _(posted 2025-07-22)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hzuavimik16xkwurk8st.webp" width="24" height="24" alt="Cribl logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cribl](https://jobo.world/company/Cribl)
-
-* **[Senior Technical Support Engineer](https://job-boards.greenhouse.io/cribl/jobs/5527341004)** — _n/a_ _(posted 2025-07-12)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
 * **[Sr Engineer - Cloud SDET (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-VA/Sr-Engineer---Cloud-SDET--Remote-_R23879)** — _n/a_ _(posted 2025-07-11)_
@@ -126,6 +126,14 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 
 * **[Senior Infrastructure Engineer - GCP](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4579636005)** — _n/a_ _(posted 2025-06-26)_
 * **[Senior Cloud Network Engineer II](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4579380005)** — _n/a_ _(posted 2025-06-25)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/numhti7b6zfmpjeszdjp.webp" width="24" height="24" alt="Ditto logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ditto](https://jobo.world/company/Ditto)
+
+* **[Senior Site Reliability Engineer, US](https://job-boards.greenhouse.io/dittoliveincorporated/jobs/4587782006)** — _n/a_ _(posted 2025-07-26)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fitj6r32co0te54kphau.webp" width="24" height="24" alt="EnergyHub logo" style="vertical-align:middle"/>&nbsp;&nbsp;[EnergyHub](https://jobo.world/company/EnergyHub)
+
+* **[Senior Security Engineer](https://job-boards.greenhouse.io/energyhub/jobs/7990170002)** — _n/a_ _(posted 2025-05-22)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wpkaroszpgkzglupy3hh.webp" width="24" height="24" alt="EvolutionIQ logo" style="vertical-align:middle"/>&nbsp;&nbsp;[EvolutionIQ](https://jobo.world/company/EvolutionIQ)
 
@@ -207,10 +215,6 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 
 * **[Senior Cloud Security Engineer](https://job-boards.greenhouse.io/paytient/jobs/4791308007)** — _n/a_ _(posted 2025-07-18)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/efxwy6jn0yovonvkqiog.webp" width="24" height="24" alt="Planet Technologies logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Planet Technologies](https://jobo.world/company/Planet-Technologies)
-
-* **[Cloud Strategist](https://jobs.lever.co/planettechnologies/2a5757ad-7473-4853-9d62-8fdf95300d4b)** — _n/a_ _(posted 2025-06-26)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/s3mpd6gnaiko8afxvbn4.webp" width="24" height="24" alt="Pocket Worlds logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Pocket Worlds](https://jobo.world/company/Pocket-Worlds)
 
 * **[Lead Backend Engineer](https://jobs.ashbyhq.com%2Fpocket%2520worlds%2F7f3f72f1-1ae9-4e82-9070-cb7b44f9e298)** — ¤130,000 – ¤200,000 USD _(posted 2025-04-04)_
@@ -284,10 +288,6 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 
 * **[Solutions Architect, Migrations](https://jobs.ashbyhq.com/snowflake/e61dbae8-cb01-46f6-b815-96f8967ad85e)** — ¤128,000 – ¤178,500 USD _(posted 2025-05-13)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/msxoxo4ksiqqz5qsape7.webp" width="24" height="24" alt="SpyCloud logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SpyCloud](https://jobo.world/company/SpyCloud)
-
-* **[Security Engineer, Infrastructure Security](https://job-boards.greenhouse.io/spycloud/jobs/6605814003)** — _n/a_ _(posted 2025-06-13)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/axeqfcn1tgu0hmd9lcdi.webp" width="24" height="24" alt="StarCompliance logo" style="vertical-align:middle"/>&nbsp;&nbsp;[StarCompliance](https://jobo.world/company/StarCompliance)
 
 * **[Site Reliability Engineer US](https://jobs.lever.co/starcompliance/aa7d55f4-e382-4579-915e-9d363fe643d9)** — _n/a_ _(posted 2025-06-19)_
@@ -344,4 +344,4 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 * **[Solutions Architect (Amazon Connect)](https://boards.greenhouse.io/willowtree/jobs/7977294002)** — _n/a_ _(posted 2025-05-01)_
 
 ---
-_Updated automatically — 2025-07-26_
+_Updated automatically — 2025-07-27_
