@@ -78,7 +78,6 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mdhnl2gwcg6rtvdfwtqv.webp" width="24" height="24" alt="Bonterra logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Bonterra](https://jobo.world/company/Bonterra)
 
 * **[EA-Software Engineer](https://bonterra.wd1.myworkdayjobs.com/bonterratech/job/Remote-United-States/EA-Software-Engineer_R2025-0245-1)** — _n/a_ _(posted 2025-07-24)_
-* **[Senior Software Architect](https://bonterra.wd1.myworkdayjobs.com/bonterratech/job/Remote-United-States/Senior-Software-Architect_R2025-0252)** — _n/a_ _(posted 2025-07-09)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sj6zld7jju9vjg7iybcy.webp" width="24" height="24" alt="BrightAI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[BrightAI](https://jobo.world/company/BrightAI)
 
@@ -117,7 +116,6 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
 * **[Sr Engineer - Cloud SDET (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-VA/Sr-Engineer---Cloud-SDET--Remote-_R23879)** — _n/a_ _(posted 2025-07-11)_
-* **[Sr. Consultant - Cloud Security (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TX/Sr-Consultant---Cloud-Security--Remote-_R23845)** — _n/a_ _(posted 2025-07-11)_
 * **[Cloud Software Engineer III - Exposure Management (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Cloud-Software-Engineer-III---Exposure-Management--Remote-_R23767-1)** — _n/a_ _(posted 2025-07-02)_
 * **[Sr. Machine Learning Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Machine-Learning-Engineer--Remote-_R23602)** — _n/a_ _(posted 2025-06-26)_
 * **[Cloud Red Teamer](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Cloud-Red-Teamer_R22570)** — _n/a_ _(posted 2025-03-19)_
@@ -154,6 +152,10 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jy37ytidfhwof6jnycfb.webp" width="24" height="24" alt="Fullscript logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fullscript](https://jobo.world/company/FullScript)
 
 * **[Senior DevOps Engineer](https://jobs.lever.co/fullscript/055fa478-3eb6-4712-b97a-03df065398ad)** — _n/a_ _(posted 2025-04-22)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rkvadkpjcebsbg2fjdtk.webp" width="24" height="24" alt="General Motors logo" style="vertical-align:middle"/>&nbsp;&nbsp;[General Motors](https://jobo.world/company/General-Motors)
+
+* **[Staff Software Engineer](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Work-From-Home---United-States/Staff-Software-Engineer_JR-202511918-1)** — _n/a_ _(posted 2025-07-17)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zgqcsfkldxiprozqirso.webp" width="24" height="24" alt="Granicus logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Granicus](https://jobo.world/company/Granicus)
 
@@ -288,6 +290,10 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 
 * **[Solutions Architect, Migrations](https://jobs.ashbyhq.com/snowflake/e61dbae8-cb01-46f6-b815-96f8967ad85e)** — ¤128,000 – ¤178,500 USD _(posted 2025-05-13)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/msxoxo4ksiqqz5qsape7.webp" width="24" height="24" alt="SpyCloud logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SpyCloud](https://jobo.world/company/SpyCloud)
+
+* **[Security Engineer, Infrastructure Security](https://job-boards.greenhouse.io/spycloud/jobs/6605814003)** — _n/a_ _(posted 2025-06-13)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/axeqfcn1tgu0hmd9lcdi.webp" width="24" height="24" alt="StarCompliance logo" style="vertical-align:middle"/>&nbsp;&nbsp;[StarCompliance](https://jobo.world/company/StarCompliance)
 
 * **[Site Reliability Engineer US](https://jobs.lever.co/starcompliance/aa7d55f4-e382-4579-915e-9d363fe643d9)** — _n/a_ _(posted 2025-06-19)_
@@ -344,4 +350,4 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 * **[Solutions Architect (Amazon Connect)](https://boards.greenhouse.io/willowtree/jobs/7977294002)** — _n/a_ _(posted 2025-05-01)_
 
 ---
-_Updated automatically — 2025-07-27_
+_Updated automatically — 2025-07-28_
