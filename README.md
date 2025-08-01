@@ -126,6 +126,7 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nerakkfib4vn5co7bmr3.webp" width="24" height="24" alt="Expedia logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Expedia](https://jobo.world/company/Expedia)
 
+* **[Cloud Data Architect & Engineer (Remote)](https://jobs.smartrecruiters.com/Experian/744000073649835-cloud-data-architect-engineer-remote-)** — _n/a_ _(posted 2025-07-30)_
 * **[Staff Software Development Engineer](https://jobs.smartrecruiters.com/Experian/744000073389115-staff-software-development-engineer)** — _n/a_ _(posted 2025-07-29)_
 * **[Cloud Application Architect, Claims Clearinghouse (Remote)](https://jobs.smartrecruiters.com/Experian/744000073076105-cloud-application-architect-claims-clearinghouse-remote-)** — _n/a_ _(posted 2025-07-28)_
 * **[Cloud Data Architect, Claims Clearinghouse (Remote)](https://jobs.smartrecruiters.com/Experian/744000073073780-cloud-data-architect-claims-clearinghouse-remote-)** — _n/a_ _(posted 2025-07-28)_
@@ -154,6 +155,10 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ndsgzy63mycn4gatbqgq.webp" width="24" height="24" alt="Headspace logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Headspace](https://jobo.world/company/Headspace)
 
 * **[Senior Cloud Solutions Engineer](https://job-boards.greenhouse.io/hs/jobs/7014626)** — _n/a_ _(posted 2025-06-28)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uxzsxi5shmjsoxmamfjh.webp" width="24" height="24" alt="Human Interest logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Human Interest](https://jobo.world/company/Human-Interest)
+
+* **[Senior Software Engineer II](https://job-boards.greenhouse.io/humaninterest/jobs/6822323)** — _n/a_ _(posted 2025-05-09)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zcr2yjsivoviphozj9y6.webp" width="24" height="24" alt="Humana logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Humana](https://jobo.world/company/Humana)
 
@@ -199,7 +204,6 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mtjdghbxvseizkan336m.webp" width="24" height="24" alt="OpenAI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[OpenAI](https://jobo.world/company/OpenAI)
 
 * **[Enterprise Security Engineer](https://jobs.ashbyhq.com/openai/47048627-427e-4566-b349-847e52a5def1)** — ¤260,000 – ¤325,000 USD _(posted 2025-05-13)_
-* **[Security Engineer, Data Center Security](https://jobs.ashbyhq.com/openai/4efa5099-9fc6-459b-8ace-c47fb8677f90)** — ¤346,500 – ¤465,000 USD _(posted 2025-03-12)_
 * **[Security Engineer, Cloud Security](https://jobs.ashbyhq.com/openai/1705c3b2-7f3a-42bf-99a9-c23ba161a90d)** — ¤279,000 – ¤385,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ivphavgil7ptqgv0jw3w.webp" width="24" height="24" alt="Openly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Openly](https://jobo.world/company/Openly)
@@ -270,10 +274,6 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 
 * **[Sr. DevOps / Infrastructure Engineer](https://jobs.ashbyhq.com/serverobotics/c1ae66e9-6d6d-4d45-bc4a-c10e22aa65a5)** — ¤150,000 – ¤200,000 USD _(posted 2025-03-12)_
 * **[Software Engineer, Build & Developer Tools](https://jobs.ashbyhq.com/serverobotics/fae11e4e-f9f6-4cae-8400-fe7235811971)** — ¤130,000 – ¤170,000 USD _(posted 2025-03-12)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/w1bo7icmsyka4gglxpty.webp" width="24" height="24" alt="ServiceNow logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ServiceNow](https://jobo.world/company/ServiceNow)
-
-* **[VP, Hyperscalers](https://jobs.smartrecruiters.com/ServiceNow/744000071153856-vp-hyperscalers?oga=true)** — _n/a_ _(posted 2025-07-16)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qvec61w5vxhujtj0tdj6.webp" width="24" height="24" alt="SGNL logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SGNL](https://jobo.world/company/SGNLai)
 
@@ -347,4 +347,4 @@ Browse a wide range of remote Cloud Engineer positions available globally. New j
 * **[Solutions Architect (Amazon Connect)](https://boards.greenhouse.io/willowtree/jobs/7977294002)** — _n/a_ _(posted 2025-05-01)_
 
 ---
-_Updated automatically — 2025-07-31_
+_Updated automatically — 2025-08-01_
